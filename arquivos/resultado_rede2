@@ -1,0 +1,161 @@
+iteração 1:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 77.551020
+
+iteração 2:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 77.551020
+
+iteração 3:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 63.265306
+
+iteração 4:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 83.673469
+
+iteração 5:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 71.428571
+
+iteração 6:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 67.346939
+
+iteração 7:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 77.551020
+
+iteração 8:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 46.938776
+
+iteração 9:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 89.795918
+
+iteração 10:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 81.632653
+
+iteração 11:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 79.591837
+
+iteração 12:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 57.142857
+
+iteração 13:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 81.632653
+
+iteração 14:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 73.469388
+
+iteração 15:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 71.428571
+
+iteração 16:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 71.428571
+
+iteração 17:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 81.632653
+
+iteração 18:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 85.714286
+
+iteração 19:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 71.428571
+
+iteração 20:
+Rede Neural :
+Camadas de neurônios: [10, 1]
+Taxa de aprendizado: 0.050000
+Momentum: 0.400000
+Percentual de acerto desejado: 95.000000
+Acurácia do teste: 53.061224
+
+Média de desempenho: 73.163265
