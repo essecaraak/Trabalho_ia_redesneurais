@@ -2,15 +2,15 @@ import pandas as pd
 import numpy as np
 
 # Carregar dados normalizados
-dataframe = pd.read_excel("dados_normalizados.xlsx")
+dataframe = pd.read_excel("tratamento de dados/dados_normalizados.xlsx")
 dataframe.apply(pd.to_numeric, errors='coerce')
 
 # Analisar a significância das variáveis
-estatisticas = pd.read_excel("teste_significancia.xlsx")
+estatisticas = pd.read_excel("tratamento de dados/teste_significancia.xlsx")
 variaveis_significantes = set(estatisticas[estatisticas['Média (Classe 0)'] != estatisticas['Média (Classe 1)']]['Variável'])
 
 # Analisar a correlação entre as variáveis
-novo_dataframe = pd.read_excel("dados_correlacionados.xlsx", index_col=0)
+novo_dataframe = pd.read_excel("tratamento de dados/dados_correlacionados.xlsx", index_col=0)
 matriz_correlacao = novo_dataframe.iloc[:-1, :-1]
 variaveis_correlacionadas = set()
 

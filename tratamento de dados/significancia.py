@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import norm
 
-dataframe = pd.read_excel("dados_normalizados.xlsx")
+dataframe = pd.read_excel("tratamento de dados/dados_normalizados.xlsx")
 dataframe.apply(pd.to_numeric, errors='coerce')
 
 variaveis = dataframe.columns[:-1]  # Seleciona todas as colunas, exceto a última (classe)
