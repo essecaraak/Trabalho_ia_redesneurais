@@ -4,7 +4,7 @@ import numpy as np
 from scipy.stats import norm
 
 # Carregar dados selecionados
-dataframe = pd.read_excel("dados_selecionados.xlsx")
+dataframe = pd.read_excel("tratamento de dados/dados_selecionados.xlsx")
 dataframe.apply(pd.to_numeric, errors='coerce')
 
 # Selecionar as colunas de classe e variáveis
